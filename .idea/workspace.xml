@@ -18,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding>
                 <element signature="e#64#65#0" expanded="true" />
                 <element signature="e#114#115#0" expanded="true" />
@@ -151,12 +151,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555523140256</updated>
-      <workItem from="1555523185323" duration="1621000" />
+      <workItem from="1555523185323" duration="1778000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1621000" />
+    <option name="totallyTimeSpent" value="1778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="268" y="0" width="1004" height="1047" extended-state="0" />
@@ -203,7 +203,7 @@
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
             <element signature="e#64#65#0" expanded="true" />
             <element signature="e#114#115#0" expanded="true" />
